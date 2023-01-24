@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "383019829097",
+    "firebase_url": "https://giggle-music-and-piano-default-rtdb.firebaseio.com",
+    "project_id": "giggle-music-and-piano",
+    "storage_bucket": "giggle-music-and-piano.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383019829097:android:9042006e6107783f7fdff8",
+        "android_client_info": {
+          "package_name": "com.danceandmusicschoolgiggle.giggleadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383019829097-7131gk23cl2mlp1uqjo95s5nu28fhqvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdbNiJo0P_nZR654K7pt-MA21b5mLVSTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383019829097-7131gk23cl2mlp1uqjo95s5nu28fhqvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383019829097:android:bc364b165e32b6fe7fdff8",
+        "android_client_info": {
+          "package_name": "com.messieyawo.com.giggleschooladminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383019829097-7131gk23cl2mlp1uqjo95s5nu28fhqvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdbNiJo0P_nZR654K7pt-MA21b5mLVSTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383019829097-7131gk23cl2mlp1uqjo95s5nu28fhqvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383019829097:android:a8bb9ccbcaaa54a77fdff8",
+        "android_client_info": {
+          "package_name": "com.messieyawo.gigglemusicpiano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383019829097-7131gk23cl2mlp1uqjo95s5nu28fhqvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdbNiJo0P_nZR654K7pt-MA21b5mLVSTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383019829097-7131gk23cl2mlp1uqjo95s5nu28fhqvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
